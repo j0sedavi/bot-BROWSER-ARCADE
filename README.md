@@ -1,7 +1,10 @@
 # bot-BROWSER-ARCADE
-bot Discord do projeto Browser arcade,bot em slash command o bot pode acessar contas e ranking do browser arcade 
+Bot Discord do projeto Browser arcade.Bot em slash command. o Bot pode acessar contas e ranking do browser arcade. Criado em python 
 ## COMANDOS
 /postimg 
 /postext
 /accountinfo
 /rank
+## requirements
+disnake
+requests
