@@ -6,5 +6,5 @@ Bot Discord do projeto Browser arcade.Bot em slash command. o Bot pode acessar c
 /accountinfo
 /rank
 ## requirements
-disnake
+disnake <br>
 requests
